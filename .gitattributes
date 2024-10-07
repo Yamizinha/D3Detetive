@@ -1,0 +1,4 @@
+d3Detetive/Content/Gothic_Interior/Environment/Asset/Texture/**/*.uasset filter=lfs diff=lfs merge=lfs -text
+d3Detetive/Content/Gothic_Interior/Environment/MasterMaterial/Texture/**/*.uasset filter=lfs diff=lfs merge=lfs -text
+d3Detetive/Content/Gothic_Interior/Environment/Asset/Mesh/Architecture/Arches/**/*.uasset filter=lfs diff=lfs merge=lfs -text
+d3Detetive/Content/Gothic_Interior/Environment/Asset/Mesh/Architecture/Arches/**/*.uasset filter=lfs diff=lfs merge=lfs -text
